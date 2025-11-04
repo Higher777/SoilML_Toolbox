@@ -68,7 +68,7 @@ Variables include: LL, PL, PI, Gs, water content, cohesion, φ, etc.
 **Demonstrated here for:**  
 Compression index *(Cc)* interpretation & prediction via explainable ML
 
-📁 File: `data/nigeria_geotechnical_dataset.csv` *(processed subset)*
+📁 File: `nigeria_compression_index_dataset.csv` *(processed subset)*
 
 > The included CSV is a cleaned, standardized extract retaining original statistical behavior for immediate GUI use.
 
