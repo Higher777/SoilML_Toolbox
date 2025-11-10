@@ -70,7 +70,6 @@ Build custom dataset for permeability / suction / UCS studies
 
 You can then load the extracted CSV into SoilML Toolbox for training and interpretation.
 
-📌 A step-by-step digitization demo will be added to /docs.
 
 🛠️ Installation
 Option A — Conda (recommended)
